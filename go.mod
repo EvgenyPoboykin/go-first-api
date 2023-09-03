@@ -1,4 +1,4 @@
-module firstapi
+module evgenypoboykinfirstapi
 
 go 1.19
 
