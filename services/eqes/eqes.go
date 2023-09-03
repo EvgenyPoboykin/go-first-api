@@ -1,8 +1,8 @@
 package eqes
 
 import (
-	getRegister "firstapi/services/eqes/get-register"
-	postRegister "firstapi/services/eqes/post-register"
+	getRegister "evgenypoboykin/first-api/services/eqes/get-register"
+	postRegister "evgenypoboykin/first-api/services/eqes/post-register"
 
 	"github.com/gin-gonic/gin"
 )

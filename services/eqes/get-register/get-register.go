@@ -1,7 +1,7 @@
 package getRegister
 
 import (
-	registerTypes "firstapi/services/eqes/register-types"
+	registerTypes "evgenypoboykin/first-api/services/eqes/register-types"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

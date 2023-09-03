@@ -1,4 +1,4 @@
-# firstapi
+# evgenypoboykin/first-api
 
 Learn golang.
 Create first point api

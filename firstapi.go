@@ -1,7 +1,7 @@
 package main
 
 import (
-	"firstapi/services/eqes"
+	"evgenypoboykin/first-api/services/eqes"
 
 	"github.com/gin-gonic/gin"
 )
