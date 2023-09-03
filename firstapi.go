@@ -11,5 +11,5 @@ func main() {
 
 	eqes.New(router)
 
-	router.Run("localhost:8080")
+	router.Run(":7878")
 }
